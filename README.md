@@ -1,0 +1,2 @@
+# RIM
+Retail Inventory Management
